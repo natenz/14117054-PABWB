@@ -92,5 +92,10 @@ nav.menu ul a:hover {
 .wrapper  {
     
 color : white;
+background: #33caf0;
+width:200px ;
+-webkit-box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.55);
+-moz-box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.55);
+box-shadow: 1px 1px 1px 0px rgba(204,204,204,0.55);
 
 }
