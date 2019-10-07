@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url(back1.jpg)
+}
+
+.header {
+
+    height: 150vh;
+
+} 
+.navbar-style {
+    box-shadow: 0 5px 10px darkturquoise;;
+    
+
+}
+
+.logo {
+    height: 50px;
+    padding: 2px 10px;
+}
+
+.icon-bar {
+    background: black;
+}
+
+.li a {
+    color: #333;
+}
+
+.big-text {
+    font-size: 60px;
+    margin: 20px 0;
+    color: darkturquoise;
+    background: transparent;
+
+}
+
+.low-text, .low-teks {
+    margin: 10px 0;
+    color: darkgreen;
+    background: transparent;
+}
+a.btn {
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+    background: transparent;
+    
+}
+
+a.btn-first {
+    background-color: darkturquoise;
+    color: #fff;
+    
+}
+a.btn-second {
+    background-color: darkturquoise ;
+    
+    color : #fff;
+}
+
+a.btn:hover {
+    background : darkturquoise;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color : #fff;
+    box-shadow: 5px 5px 10px #999;
+    transition: 0.3s;
+    background: transparent;
+}
+.banner-info, .banner-image {
+    margin: 30px 0;
+    background: transparent;
+}
+
+.col-sm-6 banner image{
+    margin: 30px 15px;
+    height: 70px;
+    padding: 2px 10px;
+    width: 30px;
+}
+.footer{
+    color:blue;
+}
